@@ -1,0 +1,6 @@
+@zeit_backend_test_HostAddress = http://localhost:5067
+
+GET {{zeit_backend_test_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
